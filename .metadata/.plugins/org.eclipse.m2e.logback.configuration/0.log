@@ -1,0 +1,27 @@
+2017-11-10 12:26:47,180 [Worker-6] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-11-10 12:28:45,249 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.niit:collaborationBackEnd:1.0.0 @ E:\ALL-Workspaces\Collaborate\collaborationBackEnd\pom.xml.
+2017-11-10 12:28:53,364 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 12:28:53,365 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationBackEnd\src\main\resources
+2017-11-10 12:28:53,392 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 12:28:53,393 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationBackEnd\src\test\resources
+2017-11-10 12:28:57,767 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:collaborationControllers:0.0.1-SNAPSHOT @ E:\ALL-Workspaces\Collaborate\collaborationControllers\pom.xml.
+2017-11-10 12:29:10,659 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-10 12:29:10,735 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationControllers\src\main\resources
+2017-11-10 12:29:10,738 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-10 12:29:10,807 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationControllers\src\test\resources
+2017-11-10 12:29:11,946 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-10 12:29:11,959 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationControllers\src\main\resources
+2017-11-10 12:29:11,962 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-10 12:29:11,987 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationControllers\src\test\resources
+2017-11-10 12:29:55,426 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 12:29:55,426 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationBackEnd\src\main\resources
+2017-11-10 12:29:55,434 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 12:29:55,434 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationBackEnd\src\test\resources
+2017-11-10 12:29:55,451 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-10 12:29:55,465 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationControllers\src\main\resources
+2017-11-10 12:29:55,468 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-10 12:29:55,479 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationControllers\src\test\resources
+2017-11-10 12:34:49,035 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 12:34:49,035 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationBackEnd\src\main\resources
+2017-11-10 12:34:49,038 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-11-10 12:34:49,038 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\ALL-Workspaces\Collaborate\collaborationBackEnd\src\test\resources
